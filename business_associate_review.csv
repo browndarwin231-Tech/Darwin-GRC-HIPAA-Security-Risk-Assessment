@@ -1,0 +1,11 @@
+Review ID,Business Associate,Service Provided,ePHI Access,BAA Status,Security Questionnaire,Encryption,Incident Notification,Subcontractor Oversight,Review Status,Risk Level,Recommended Action
+BA-001,HealthCloud Storage,Cloud Backup Services,Yes,Signed,Complete,Implemented,Documented,Partial,Conditional Approval,Medium,Require annual security reassessment and stronger subcontractor oversight
+BA-002,MediBilling Solutions,Billing and Claims Processing,Yes,Signed,Complete,Implemented,Documented,Implemented,Approved,Low,Continue annual review and retain evidence
+BA-003,SecureMail Health,Secure Email Services,Yes,Signed,Partial,Implemented,Documented,Partial,Conditional Approval,Medium,Complete security questionnaire and document subcontractor controls
+BA-004,PatientPortal Pro,Patient Portal Hosting,Yes,Signed,Complete,Implemented,Partial,Partial,Conditional Approval,High,Improve incident notification requirements and perform recurring vendor reassessment
+BA-005,DataAnalytics Health,Healthcare Analytics,Yes,Signed,Partial,Implemented,Documented,Missing,Conditional Approval,High,Require subcontractor review process and complete annual security assessment
+BA-006,ClinicSupport IT,Managed IT Services,Yes,Signed,Complete,Implemented,Documented,Implemented,Approved,Low,Continue recurring access and security reviews
+BA-007,RemoteCare Connect,Telehealth Platform,Yes,Signed,Complete,Implemented,Documented,Partial,Conditional Approval,Medium,Strengthen subcontractor oversight and document annual reassessment
+BA-008,ArchiveMed Records,Medical Record Archiving,Yes,Signed,Partial,Implemented,Documented,Partial,Conditional Approval,Medium,Complete questionnaire and review data retention and disposal controls
+BA-009,HealthPay Services,Payment Processing,Limited,Signed,Complete,Implemented,Documented,Implemented,Approved,Low,Continue monitoring contractual and security obligations
+BA-010,TempStaff Medical,Staffing Services,Limited,Missing,Partial,Partial,Partial,Missing,Not Approved,High,Execute BAA before access to ePHI and complete security review
