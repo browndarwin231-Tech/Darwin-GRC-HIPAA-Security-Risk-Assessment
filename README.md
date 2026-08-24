@@ -241,6 +241,17 @@ Darwin-GRC-HIPAA-Security-Risk-Assessment/
 ├── remediation_plan.md
 └── evidence/
 
+## Evidence Screenshots
+
+### HIPAA Safeguard Matrix
+![HIPAA Safeguard Matrix](evidence/hipaa-safeguard-matrix.png)
+
+### HIPAA Risk Register
+![HIPAA Risk Register](evidence/hipaa-risk-register.png)
+
+### Business Associate Review
+![Business Associate Review](evidence/business-associate-review.png)
+
 ## Skills Demonstrated
 
 - HIPAA Security Rule
